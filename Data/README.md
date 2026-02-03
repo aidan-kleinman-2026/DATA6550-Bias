@@ -12,11 +12,13 @@ https://www.kaggle.com/datasets/ghaidaalatoum/fairface
 	2.	Extract the downloaded files into the Data/ directory of this repository.
 	3.	Verify that your local directory structure matches the following:
 
+```text
 Data/
 ├── train/
 ├── val/
 ├── fairface_label_train.csv
 └── fairface_label_val.csv
+```
 
 📝 Notes
 	•	The train/ and val/ directories contain the image files used for model training and evaluation.
