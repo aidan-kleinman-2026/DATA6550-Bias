@@ -7,9 +7,9 @@ To reproduce our analysis:
    https://www.kaggle.com/datasets/jessicali9530/fairface
 2. Extract the dataset into the `Data/` directory
 3. Ensure the following structure:
-   Data/
-   |
-   | - train/
-   | - val/
-   | - fairface_label_train.csv
+   Data/\n
+   |\n
+   | - train/\n
+   | - val/\n
+   | - fairface_label_train.csv\n
    | - fairface_label_val.csv
