@@ -7,10 +7,13 @@ Due to GitHub storage and file count limitations, the FairFace image files are n
 🔽 Dataset Access
 
 To reproduce our analysis:
-	1.	Download the FairFace dataset from Kaggle:
-https://www.kaggle.com/datasets/ghaidaalatoum/fairface
-	2.	Extract the downloaded files into the Data/ directory of this repository.
-	3.	Verify that your local directory structure matches the following:
+
+1. Download the FairFace dataset from Kaggle:  
+   https://www.kaggle.com/datasets/ghaidaalatoum/fairface
+
+2. Extract the downloaded files into the `Data/` directory of this repository.
+
+3. Verify that your local directory structure matches the following:
 
 ```text
 Data/
