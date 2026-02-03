@@ -8,7 +8,8 @@ To reproduce our analysis:
 2. Extract the dataset into the `Data/` directory
 3. Ensure the following structure:
    Data/
-    ├── train/
-    ├── val/
-    ├── fairface_label_train.csv
-    └── fairface_label_val.csv
+   |
+   | - train/
+   | - val/
+   | - fairface_label_train.csv
+   | - fairface_label_val.csv
