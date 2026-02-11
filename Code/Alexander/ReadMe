@@ -1,3 +1,6 @@
 ### The jupyter notebook is very large and sometimes is not able to be shown in GitHub so please use the following link via NBviewer:
 https://nbviewer.org/github/aidan-kleinman-2026/DATA6550-Bias/blob/main/Code/Alexander/Project1_decision_tree.ipynb
 # Just paste into browser and be able to see the entire notebook 
+
+AI software, ChatGPT and Claude, was used in help rebuilding a code for the model train test for multiclass. 
+A lot of this code is from resued homework done by myself in other calsses at MTSU.
